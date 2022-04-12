@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Obstacle
+  - Academy+
+  - Academy-
+  - Happiness+
+  - Happiness-
+  - Wealth+
+  - Wealth-
+  - Health+
+  - Health-
+  - FinishLine
+  - JumpOver
   layers:
   - Default
   - TransparentFX
